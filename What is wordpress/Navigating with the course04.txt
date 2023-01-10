@@ -1,0 +1,23 @@
+You can use this course to build foundaional knowledge necessary to launch a carrer
+with wordpress
+
+chapter1-->What is wordpress
+and how it is different from other content management system
+chapter2-->setting up wordpress
+pick best host for ur need
+get yr site environment ready
+creates the user account u need
+how to updae the wordpress software
+
+chapter3->Navigating the admin area
+chapter4-->customizing site setting
+chapetr5-->widgets and menu
+chapter6-->Pages
+homepages
+how o craete websites with the help of pages
+chapetr7-->Post
+chapter8-->Blocks
+chapter9-->Media library
+chapter10-->plugins
+chapter11-->wordpress sequirity
+chapter12-->Trouble shooting

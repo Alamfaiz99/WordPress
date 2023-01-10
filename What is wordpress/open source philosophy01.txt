@@ -1,0 +1,27 @@
+1)in the past,before content management system existed,
+  The developer had to write every line of code that makes up the site from scratch.
+  if they want to change something about the site,they have to write a new code 
+  or edit the existing one.
+  This made creating and managing sites difficultand time consuming..
+
+  What is content Management System?
+  A content management system allows you to fast forward through the development process..
+  You begin with an empty website and user-friendly code-free tools to populate your site with dynamic content.
+   Other content management tools like Squarespace or Wix come with more built-in tools that might allow You
+   to launch the sites more quickly..
+
+
+   WordPress provides you with much more customization and has better SEO out of the box. 
+   Probably my favorite benefit is that with WordPress, 
+   you own all your content and have full power over where to host and store it. 
+
+   First iteration of word press-->for blogging site creation(2003)
+   Pluggins-->were added in next year(2004)
+   Pages-->were added after then(2005)
+
+   Open source-->
+   One of the things that makes WordPress so unique is that its software is open source. 
+   This means that any of the source code can be inspected, modified, and changed by anyone, anywhere, for pretty much any reason. 
+   Open source software like WordPress is free, flexible, and community-focused. 
+   WordPress is more adaptable, and individual site builders have more control over the way the soft
+   

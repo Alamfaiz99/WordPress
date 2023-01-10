@@ -1,0 +1,23 @@
+Getting Started with WordPress-->
+evelop custom websites powered by WordPress..
+This learning path offers a solid foundation for developing your advanced WordPress skills.
+ Explore how to manipulate WordPress to build content and designs that match your unique needs.
+ 1)Learn the essentials of WordPress and web standards.
+ 2)Build a custom WordPress theme.
+ 3)Discover critical developer tools and techniques.
+
+
+ Getting started with WordPress
+Selecting transcript lines in this section will navigate to timestamp in the video
+- The internet is the most crucial piece of technology in our current information age. 
+It's how we share things with the world, and every individual, including you,
+ has the power to create, sell, distribute, and learn through the internet.
+ But even though websites are such a crucial part of our everyday lives, 
+how do you get your voice out on the web? 
+How do you create a platform that'll help you achieve your personal and professional goals? 
+How do you create a community through this oh so important resource?
+ The answer to those questions for millions of people around the world is WordPress.
+
+ -->What is wordPress?
+ WordPress is a free website publishing application that empowers you, 
+ regardless of your skill level or experience to publish a blog, website, or e-commerce store on the internet.

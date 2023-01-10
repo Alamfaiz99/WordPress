@@ -1,0 +1,22 @@
+Lets talk about the diffrence bw .com and .org..
+When researching u will come across with two diffrent softwares..
+1)Wordpress.org-->in order to download the wordpress
+  as many times u can download an dcreat ewebsites using wordpress/.org
+
+2)wordpress.com-->for commercial purpose as a service based 
+
+Diffrences-->
+1)Building a website will wordpess.com means u are suing or often buying the service
+  that includes the wordpress software.
+  Wordpress.com includes hosting,a domain,and other support services that provided 
+  bya  companycalled Automatic.
+
+2)On WordPress.org, you can download the WordPress core software, as well as some plugins and themes, 
+all for free, and you can use all of this to build a website.
+ Any hosting and/or other services you buy come from third parties that you can choose.
+
+ The WordPress software, accessible through WordPress.org, is completely free,
+  and can be downloaded as many times as you want in order to build as many sites as you want
+
+  3)There is also a slightly larger learning curve to using the WordPress software 
+  provided for free via WordPress.org

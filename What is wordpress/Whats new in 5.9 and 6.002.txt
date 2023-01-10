@@ -1,0 +1,21 @@
+Every year a new version of wordpress has been released
+New versions may correct bugs,add new features,changes the interface,
+provide security improvement,added lot of other things..
+
+--->Full site editing-->Dashboard-->appearance-->Editor-->Click on it
+This allows u to edit all the parts of your website
+-->New default theme called 2022..Yoou can build your design with the help of box
+Previously defaullt theme lies on the classic editor
+But this one is 100% block based..
+
+
+-->Patterns are boost in 5.9
+   are used to create headers and footers
+
+   -->Patterns Explore are now available where u can compare the Patterns
+
+Important-->
+
+Remember, you can always learn about the features of a new WordPress release by visiting its field guide. 
+Google your version plus field guide to 
+find the page on make.Wordpress.org that provides you with an outline of the update.
