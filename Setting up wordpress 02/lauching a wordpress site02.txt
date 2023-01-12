@@ -1,0 +1,11 @@
+ Meat and Potato-->The meat and potatoes is the most important part of something
+
+ Now lets see how to launch a wordpress website..
+ 1)Download wordpress from wordpress.org
+   its free and open souce you can ndownload a s many times a s u want
+   and u can create as many as websites as u want..
+2)You have to download a local server eg)XAMPP 
+  and config it use third link installation
+  paste the software at the desktop and then run the software..
+3)start apache and mysql on server
+  go to xampp website again

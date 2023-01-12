@@ -21,7 +21,8 @@
 
    Open source-->
    One of the things that makes WordPress so unique is that its software is open source. 
-   This means that any of the source code can be inspected, modified, and changed by anyone, anywhere, for pretty much any reason. 
+   This means that any of the source code can be inspected, modified, and changed by 
+   anyone, anywhere, for pretty much any reason. 
    Open source software like WordPress is free, flexible, and community-focused. 
    WordPress is more adaptable, and individual site builders have more control over the way the soft
    

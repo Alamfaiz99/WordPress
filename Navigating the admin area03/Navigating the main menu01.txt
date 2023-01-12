@@ -1,0 +1,45 @@
+->Admin screen-->Dashboard-->or backend
+
+There are three main area-->
+1)The main menu on the left
+2)the dashboard homepage made up of widgetsthat appear in the center
+3)Toolbar at the top
+
+-->Lets go to the items in the main menu-->
+Dashoboard hoem brings u to teh Homepage
+Dashboards updates lets u see all the updates currently available
+Post where u can add post
+and manage categories and tags
+
+-->post and pages are different..
+Post are a series of pages that may display in a blog 
+
+-->Media is where u can add and manage images,videossoundfiles media and all;
+ You can update manage and delete them from the screen
+
+-->Pages are where u cana dd and manage your websites pages
+ 
+ -->omments are where you can manage the comments you have received through ur websites
+    if u have a blog u should have aware of blogs
+-->Appearance provides and array of tools and settings thats helps u manage ur site
+how it looks globally..
+
+-->this section is where u can add and manage and remove themes..
+
+-->Plugins allow u to add and manage the plugins u have on your websites 
+through this area u can find the lugin directory
+where we can ssearch and download the free plugins 
+
+-->Users allow u to manage and add usersyou have access to the backend of the website
+
+-->Users are the people who can logina nd make changes to the sitedepending upon their user access level
+
+-->Visitors-->are the peoples who come to your siteto use it from the frontend
+
+-->The tools means lets u import and export  content AS  well as view site health information
+and much more
+
+-->Setting allow u as a site administrator to make decision how your sites operates
+as well as things like languages time zones and link formattingand more.
+
+-->keep 

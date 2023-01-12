@@ -1,0 +1,44 @@
+We will look upon how to choose a wordpress host?
+1)If u are using the software which is downloaded from wordpress.org
+  hosting is the essential part of the process..
+2)What is hosting in UI?
+  websites are made up of files..They may be HTML,CSS,PHP etc..
+  database files,image files et cetera..
+3)All file need a physical place to store
+  for example when u take a photo from camera
+  That file is stored in a device like SD card
+  You can move the file in ur computer
+  and now its stored in your harddrive..
+4)Hosting works in the same way
+
+5)There are two files that make the wordpress site
+  and they need to be stored on the server
+  When you pay for hosting ...
+  You are actually rentinga  space on a server whichis like a gigantic software..
+  and that computers are owned by hosting compinies..
+
+6)A wordpress site is made up of very  specific set of files..
+  and database tables..
+  When you type the domain name or URL of website into your browser,
+  You are asking the browser to follow this specific address to a server
+  where those files are going to be stored..
+
+7)The browser request the file using the URL as a sort of passowrd..
+
+8)Then the files are returned into urbrowser and presented to u visually..
+
+9)A host made all of these happen..
+
+10)You can have local website meaning the files exist in your laptop or computer,
+but browsers cannot find the URL's and grab those files for the people elsewhereto view.
+
+
+Managed Wordpress Hosting...
+1)Managed WordPress hosting is your strongest choice when searching for a host..
+2)Managed wordpress hosting is obtimized for wordpress performancedown to the support team that you work on 
+3)When youy use managed hoisting you can launch your wordpress sites in just a click
+  using your host installation process and it comes with all kind of bells and whistles designed espectially for 
+  wordpess websites experience 
+4)Hosting dont just store files They usually comes with features and services like
+ threat detection,backup services,updates a catching,build tools and customer supports
+

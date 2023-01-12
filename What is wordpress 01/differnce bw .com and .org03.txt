@@ -6,7 +6,7 @@ When researching u will come across with two diffrent softwares..
 2)wordpress.com-->for commercial purpose as a service based 
 
 Diffrences-->
-1)Building a website will wordpess.com means u are suing or often buying the service
+1)Building a website with wordpess.com means u are suing or often buying the service
   that includes the wordpress software.
   Wordpress.com includes hosting,a domain,and other support services that provided 
   bya  companycalled Automatic.
