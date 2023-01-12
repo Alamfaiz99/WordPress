@@ -1,0 +1,39 @@
+1)You can create a s many as user account as you want to login them
+2)Its good ides to have one or two copy but dont give access to anyone random
+3)Every wordpress website has an user and that is admin
+4)Thats make changes and update content by itself
+
+
+-->User Credentails to remember
+1)username
+2)Email address
+3)password
+
+these will be used to login
+You can also recover the password
+
+-->How to craete new user account
+
+1)Go to users -->add new-->
+-->Lets talk about roles-->
+Admin--> has access to all the administrator roles within the single site.
+Editor-->can publish and manage post including the post of other user
+Author-->is someone who can publisha nd and manage just their own post 
+Contributor-->is somebody who can write and manage their own post but cannot publish them
+A subscriber can only manage their own profile without publishing any content.
+
+Super admin-->There is also a Super admin setting is somebody who has access to site network
+administration featuresand all other features..
+But this only applies to wordpress multisites
+so we wont worry about that yet 
+
+User-->profiles-->if u want everuse must have photo-->
+this is possible using Gravitar
+Which works through the wordpress.com services.
+
+Click on gravitar -->create account on wordpress-->
+email:faizanalam9871491669@gmail.com
+user:Alamfaiz99
+Password:Alamfaiz@99
+Inthis way you can login to gravitar
+Now you can login to the wordpress using the activation link

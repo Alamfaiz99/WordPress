@@ -1,0 +1,13 @@
+When talking about the open sorce a team of volunteeres is constantly working
+for the improvement,bug fixing,update user interface,developer APIs and more 
+to wordpress core..
+After 5 months a major release of wordpress comes out
+-->You have to update the newser version 
+
+How to update wordpress manually-->
+1)after login to wordpress 
+2)In Home-->updates-->click on check for updates and press released updates
+3)You can use release notes to check what is new in current release...
+
+for the latest release-->
+  https://wordpress.org/new/category/releases

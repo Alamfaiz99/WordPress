@@ -1,6 +1,6 @@
  Meat and Potato-->The meat and potatoes is the most important part of something
 
- Now lets see how to launch a wordpress website..
+ Now lets see how to launch a wordpress website on a local server like xamp and wampp..
  1)Download wordpress from wordpress.org
    its free and open souce you can ndownload a s many times a s u want
    and u can create as many as websites as u want..
@@ -9,3 +9,34 @@
   paste the software at the desktop and then run the software..
 3)start apache and mysql on server
   go to xampp website again
+  and click on the admin in xampp server
+  it will open the admin section
+4)download the wordpress using wordpress.org
+  extract the wordpress file at the desktop
+5)Move the wordpress folder to c:\xampp\htdocs 
+and rename according to your project
+6)open your server using admin at the xamppp
+http://localhost/newwordpress/
+press enter and u will get the admin area
+6)make thes etting
+  after that open the new tab and enter this to create new database realational database
+  localhost/phpmyadmin/
+  click on new in the admin section
+7)give name-->press create
+  copy the anme of database and paste in the database section of wordpress site
+  username:root
+  passowrd:black
+  database and prefix as it is and press enter
+  set title:New Wordpress site
+  username:admin
+  password:Alamfaiz@99
+  click on install wordpress
+8)Now the task is completed and you will enter get the access of wordpress
+
+Now Course video lecture:
+1)https://www.siteground.com/-->This is siteground hosting website
+ to host wordpress website
+2)After getting login you will get the wordpress site option
+3)choose new website and choose new domain/existing domain/Temporary domain..
+4)choose start new website-->choose wordpress 
+5)Lets go and login
