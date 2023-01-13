@@ -2,32 +2,32 @@
 
 There are three main area-->
 1)The main menu on the left
-2)the dashboard homepage made up of widgetsthat appear in the center
+2)the dashboard homepage made up of widgets(omponent of interface) that appear in the center
 3)Toolbar at the top
 
 -->Lets go to the items in the main menu-->
-Dashoboard hoem brings u to teh Homepage
-Dashboards updates lets u see all the updates currently available
-Post where u can add post
+---->Dashoboard --> brings u to the--> Homepage
+---->Dashboards updates lets u see all the updates currently available
+---->Post where u can add post
 and manage categories and tags
 
 -->post and pages are different..
-Post are a series of pages that may display in a blog 
+   Post are a series of pages that may display in a blog 
 
 -->Media is where u can add and manage images,videossoundfiles media and all;
  You can update manage and delete them from the screen
 
--->Pages are where u cana dd and manage your websites pages
+-->Pages are where u can add and manage your websites pages
  
- -->omments are where you can manage the comments you have received through ur websites
+ -->comments are where you can manage the comments you have received through ur websites
     if u have a blog u should have aware of blogs
--->Appearance provides and array of tools and settings thats helps u manage ur site
+-->Appearance provides an array of tools and settings thats helps u manage ur site
 how it looks globally..
 
 -->this section is where u can add and manage and remove themes..
 
 -->Plugins allow u to add and manage the plugins u have on your websites 
-through this area u can find the lugin directory
+through this area u can find the login directory
 where we can ssearch and download the free plugins 
 
 -->Users allow u to manage and add usersyou have access to the backend of the website

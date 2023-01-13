@@ -1,0 +1,20 @@
+1)setting-->General-->allows u to change the site title
+Means u can make general settings..
+You can also change the time zone..
+
+2)Setting-->Writing-->you can change how post and mail works within ur site..
+
+3)Reading Tab-->What yr home page will show
+                What yr blog feed will show..
+                How search engines interect with the site
+
+4)The Discussin tab is all about comments and blog posts..
+  If u dont plan on usinga blog for ur site u can pretty ignore this page
+
+5)Media-->U can change how media will interact with the wordpress..
+
+6)Permalinks site allows u to change the 
+
+7)Privacy page is used to set the priority setting for the web page
+
+Reading-->search engine visibilty-->check

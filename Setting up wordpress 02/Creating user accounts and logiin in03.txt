@@ -17,12 +17,19 @@ You can also recover the password
 1)Go to users -->add new-->
 -->Lets talk about roles-->
 Admin--> has access to all the administrator roles within the single site.
-Editor-->can publish and manage post including the post of other user
-Author-->is someone who can publisha nd and manage just their own post 
-Contributor-->is somebody who can write and manage their own post but cannot publish them
-A subscriber can only manage their own profile without publishing any content.
+On a regular WordPress website, the administrator role is the most powerful user role.
+ Users with the administrator role can add new posts, edit posts by any users, and delete those posts.
+ Plus, they can install, edit, and delete plugins and themes.
 
-Super admin-->There is also a Super admin setting is somebody who has access to site network
+2)Editor-->can publish and manage post including the post of other user
+
+3)Author-->is someone who can publish and manage just their own post 
+
+4)Contributor-->is somebody who can write and manage their own post but cannot publish them
+
+5)A subscriber can only manage their own profile without publishing any content.
+
+6)Super admin-->There is also a Super admin setting is somebody who has access to site network
 administration featuresand all other features..
 But this only applies to wordpress multisites
 so we wont worry about that yet 

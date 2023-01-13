@@ -1,0 +1,33 @@
+Navigiting the Dashboard Homepage
+-->Dashboard-->click-->Homepage at the center of the screen
+-->There are three main areas-->
+1)The menu on the left..
+2)The dashborad homepage that made uo of widgets appear at the center
+3)and the toolbar at the top
+
+--->Now lest see the items at the center of the Dashboard Homepage...
+1)The widgets that u will see on this page will be 
+  Activity Panel-->recently published post and new comments
+  so that u can see what has been published on your site recently
+
+  
+Quick Draft-->In oredr to draft a new post
+               If u have to good idea what to draft than u can easily draft here..
+
+
+At a Glace-->the content which is currently populating the website..
+             including post,pages an docmments..
+
+
+Wordpress events and news-->what is going inside the wordpress community..
+
+
+site health status-->gives u an idea of overall health of ur website
+     alets u to the task which u should perform
+     in oredr to improve sequiry and performance..
+
+------>Changing the position of widgets
+1)press and drag to the desired location
+2)At first it will look like simple but when we use plugins 
+  then more widgets will be added to thsi area....
+  

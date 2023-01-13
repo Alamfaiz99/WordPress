@@ -1,0 +1,30 @@
+Themes-->are the quickest way to decides how yr website looks like..
+   and how its look like to the visitors
+
+What is Theme?
+A Theme is a piece of open-source software
+Free or paid-->u can and download or even purchase
+Provides design and content management tools
+So that u dont havw to build everything from scratch
+helps builds a site more quickly
+
+Provides professional looking design much more quickly
+
+WordPress theme directory-->Appearance-->Themes-->By default three themes are there
+Click on add new-->popular themes/Latest/Block Themes/
+Feature Filter-->to find theme that u require
+
+-->Developers throughout create,update and sell Wordpress theme and earn an handsome amount..
+
+How to choose a Theme..
+Determine whether u need popular or free themes
+Some popular Themes are Generic Press..
+Astra dp,Neve,Deve
+
+-->If u r using premium themesuse highly vetted themes...
+Premium themes provides more features and look more professional..
+-->Look up recent downloads and active support
+
+If u have Downloaded theme from third party then,
+upload the theme and u will see the result..
+

@@ -1,0 +1,6 @@
+Navigating the top bar...
+1)New wordpress site(Name of site)-->click and visit your site..
+  click it again to go back t the Dashboard..
+2)Chatbox-->click on chatbox to go to the comment area..
+  where u can amange any comment taht u ahve received from site visitors
+3)+new icon to add page,post ,user and other stuffs..
